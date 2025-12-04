@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 92a8b67943fa016dce3441fccc081c2a5cc0a666 Daniel <wjdaniel379@gmail.com> 1764815117 +0300	commit (initial): feat: initial commit of backend API for Milestone 1
+92a8b67943fa016dce3441fccc081c2a5cc0a666 0000000000000000000000000000000000000000 Daniel <wjdaniel379@gmail.com> 1764815121 +0300	Branch: renamed refs/heads/main to refs/heads/main
+92a8b67943fa016dce3441fccc081c2a5cc0a666 92a8b67943fa016dce3441fccc081c2a5cc0a666 Daniel <wjdaniel379@gmail.com> 1764815121 +0300	Branch: renamed refs/heads/main to refs/heads/main
+92a8b67943fa016dce3441fccc081c2a5cc0a666 92a8b67943fa016dce3441fccc081c2a5cc0a666 Daniel <wjdaniel379@gmail.com> 1764816124 +0300	checkout: moving from main to feature/admin-positions
+92a8b67943fa016dce3441fccc081c2a5cc0a666 11f905e8bc8777bb5d197ec3e0bf5ac445963a30 Daniel <wjdaniel379@gmail.com> 1764817812 +0300	commit: ci: configure github actions and security policy

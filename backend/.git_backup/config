@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "feature/admin-positions"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/feature/admin-positions
+[remote "origin"]
+	url = https://github.com/JDanielZ5G/Evoting-Backend-API.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
